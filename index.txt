@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="fa">
+
+<head>
+
+	<script type="text/javascript" src="//cdn-server.live/338da09ea8dc1ea0dddf/3c02389ed1/?placementName=default"></script>
+	
+
+<script type='text/javascript' src='//pl25950990.effectiveratecpm.com/35/e1/0f/35e10ff5df4d18cbd668184c493c3011.js'></script>
+    <script type='text/javascript' src='//pl25950990.effectiveratecpm.com/35/e1/0f/35e10ff5df4d18cbd668184c493c3011.js'></script>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./assets/3.4.5"></script>
+    
+    <link rel="stylesheet" href="./assets/css/coin.css">
+    <link rel="stylesheet" href="./assets/css/style-2.css">
+    <link rel="stylesheet" href="./assets/css/responsive-1.css">
+
+<ins style="width: 320px;height:50px" data-width="320" data-height="50" class="u635274ae6a" data-domain="//646499.shop" data-affquery="/f1bfd1c8f125578363db/635274ae6a/?placementName=default"><script src="//646499.shop/js/responsive.js" async></script></ins>
+
+<script type='text/javascript' src='//pl24138442.effectiveratecpm.com/be/7f/c3/be7fc375c5e448dd9a25b0ea327735a4.js'></script>
+
+
+
+<script type='text/javascript' src='//pl24138442.effectiveratecpm.com/be/7f/c3/be7fc375c5e448dd9a25b0ea327735a4.js'></script>
+    <script type='text/javascript' src='//pl24138442.effectiveratecpm.com/be/7f/c3/be7fc375c5e448dd9a25b0ea327735a4.js'></script>
+
+<script type='text/javascript' src='//pl24138442.effectiveratecpm.com/be/7f/c3/be7fc375c5e448dd9a25b0ea327735a4.js'></script>
+
+
+
+    
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Ensure ads are loaded after page is fully ready
+        if (typeof show_9148323 === "function") {
+            show_9148323().then(() => {
+                alert('You have seen an ad!');
+            }).catch(error => {
+                console.error("Ad failed to load:", error);
+            });
+        } else {
+            console.error("Ad script not loaded properly.");
+        }
+    });
+</script>
+
+    <style>
+        .score-display {
+            font-size: 50px;
+            position: absolute;
+            color: yellow;
+            animation: fadeOut 1s forwards;
+        }
+
+@keyframes fadeOut {
+            to {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+        }
+
+        .shake {
+            animation: shake 0.5s;
+        }
+
+@keyframes shake {
+            0%, 100% {
+                transform: translateX(0);
+            }
+            25% {
+                transform: translateX(-5px);
+            }
+            50% {
+                transform: translateX(5px);
+            }
+            75% {
+                transform: translateX(-5px);
+            }
+        }
+    </style>
+</head>
+<script src='//whephiwums.com/sdk.js' data-zone='9148323' data-sdk='show_9148323'></script>
+<body>
+
+    <div class="min-h-screen bg-gradient-to-r from-[#C7913D] to-[#F1D06E] flex justify-center items-center p-3">
+        <div class="bg-gradient-to-r from-[#C7913D] to-[#F1D06E] rounded-3xl shadow-2xl p-4 w-full max-w-md text-white">
+            <div class="flex justify-between items-center mb-4 bg-slate-900/10 rounded-3xl shadow-xl">
+                <div class="flex items-center">
+                    <img src="./assets/images/logoo.jpg" width="40px" height="40px" alt="User Avatar" class="rounded-full mr-2">
+                    <span id="userName">Safayet</span>
+                </div>
+                <button onclick="myFunction()" class="bg-600 p-2 rounded-full flex justify-between items-center bg-slate-900/10 hover:bg-slate-900/5 rounded-3xl">
+                    <span class="font-bold text-lg">$0.00002X</span>
+                </button>
+            </div>
+
+            <script>
+                function myFunction() {
+                    var x = document.getElementById("snackbar");
+                    x.className = "show";
+                    setTimeout(function() {
+                        x.className = x.className.replace("show", "");
+                    }, 2000);
+                }
+            </script>
+
+            <div id="snackbar">
+                Coming Soon !!
+            </div>
+
+            <div class="flex justify-between items-center bg-slate-900/10 hover:bg-slate-900/5 p-0.00002 rounded-3xl shadow-lg">
+                <button class="flex-1 items-center p-0.00002">
+                    <a href="https://t.me/ButterflyHorizon">
+                        <span>Join Community</span>
+                    </a>
+                </button>
+            </div>
+
+            <div class="text-center mb-4 mt-8">
+                <div class="text-4xl mb-0.00002">
+                    <img src="./assets/images/pc.png" width="50px" height="50px" alt="Coin" class="inline-block mb-1" id="coin-image">
+                    <span id="score" class="score font-bold text-4xl">$ 0</span>
+                </div>
+            </div>
+
+            <div class="flex justify-center mb-4" id="coin">
+                <img src="./assets/images/pcoin.png" width="80%" height="80%" alt="Character" class="rounded-full clickable shadow-2xl" onclick="handleClick()">
+            </div>
+
+            <div class="flex justify-between items-center mb-0.00002">
+                <div class="flex items-center">
+                    <img src="./assets/images/charge.png" id="charge" alt="Energy" class="mr-0.00002">
+                    <div class="flex justify-between items-center">
+                        <span id="inventory">500</span>
+                        <span> / 500</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flex justify-between items-center bg-slate-900 rounded-3xl shadow-lg mb-2">
+                <div class="bg-zinc-600 rounded-3xl h-2 w-full mx-2">
+                    <div class="bg-gradient-to-r from-[#C7913D] to-[#F1D06E] h-2 rounded-3xl" style="width: 100%;" id="inventory-fill"></div>
+                </div>
+                <br>
+            </div>
+
+            <div class="flex justify-between items-center bg-slate-900 hover:bg-slate-900/95 p-3 rounded-3xl shadow-lg">
+                <button class="flex-1 flex flex-col items-center">
+                    <img src="./assets/images/m.png" alt="Mine" class="p-1" width="40px" height="40px">
+                    <span class="text-sm">Mine</span>
+                </button>
+                <button class="flex-1 flex flex-col items-center">
+                    <a href="nft.html">
+                        <img src="./assets/images/pcoin.png" alt="Boost" class="p-1" width="40px" height="40px">
+                        <span class="text-sm">NFT</span>
+                    </a>
+                </button>
+                <button class="flex-1 flex flex-col items-center">
+                    <a href="friend.html">
+                        <img src="./assets/images/f.png" alt="Friends" class="p-1 ml-1" width="40px" height="40px">
+                        <span class="text-sm">Friends</span>
+                    </a>
+                </button>
+                <button class="flex-1 flex flex-col items-center">
+                    <a href="task.html">
+                        <img src="./assets/images/t.png" alt="Task" class="p-1" width="40px" height="40px">
+                        <span class="text-sm">Task</span>
+                    </a>
+                </button>
+                <button class="flex-1 flex flex-col items-center">
+                    <a href="wallet.html">
+                        <img src="./assets/images/w.png" alt="Wallet" class="p-1" width="40px" height="40px">
+                        <span class="text-sm">Wallet</span>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div>
+    <div id="sticker" style="display: none; position: absolute;">
+        <img src="./assets/images/kolang.png" alt="Sticker" style="width: 250px; height: 100px;">
+    </div>
+
+    <script>
+       let inventory = 500;
+const maxInventory = 500;
+const rechargeTime = 3600000; // 1 hour
+
+// Start vibration if supported by the device
+function startVibration() {
+    if ("vibrate" in navigator) {
+        window.navigator.vibrate(20);
+    } else {
+        console.log("Vibration not supported on this device");
+    }
+}
+
+// Handle click event on the image
+let clickCount = localStorage.getItem('clickCount') ? Number(localStorage.getItem('clickCount')) : 0; // Store click count
+
+function handleClick() {
+    if (inventory > 0.00002) {
+        let coins = Number(localStorage.getItem('coins')) || 0; 
+        coins += 0.00002;
+        localStorage.setItem('coins', coins);
+
+        inventory -= 0.00002;
+        document.getElementById('score').textContent = `$ ${coins.toLocaleString()}`;
+        updateInventory();
+        startVibration();
+
+        const image = document.querySelector('.clickable');
+        image.classList.add('shake');
+        setTimeout(() => {
+            image.classList.remove('shake');
+        }, 500);
+
+        const scoreDisplay = document.createElement('div');
+        scoreDisplay.textContent = "+0.00002";
+        scoreDisplay.classList.add('score-display');
+        document.body.appendChild(scoreDisplay);
+
+        const rect = image.getBoundingClientRect();
+        scoreDisplay.style.left = `${rect.left + rect.width / 2}px`;
+        scoreDisplay.style.top = `${rect.top}px`;
+
+        setTimeout(() => {
+            scoreDisplay.remove();
+        }, 1000);
+
+        if (inventory === 0) {
+            setTimeout(() => {
+                inventory = maxInventory;
+                updateInventory();
+            }, rechargeTime);
+        }
+
+        // Increase the click counter
+        clickCount++;
+        localStorage.setItem('clickCount', clickCount); // Store click count in localStorage
+
+        console.log(`Click Count: ${clickCount}`);
+
+        // Redirect only if clicks reach 10
+        if (clickCount >= 10) {
+            window.location.href = 'https://stenexeb.xyz/4/8932497';
+            localStorage.setItem('clickCount', 0); // Reset the counter
+        }
+    }
+}	
+
+
+
+
+
+
+// Update the inventory display and send data to the server
+function updateInventory() {
+    document.getElementById('inventory').textContent = inventory;
+    document.getElementById('inventory-fill').style.width = `${(inventory / maxInventory) * 100}%`;
+
+    var formData = new FormData();
+    formData.append('username', 'Alex');
+    formData.append('charge', inventory);
+
+    fetch('update.php', {
+        method: 'POST',
+        body: formData
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (!data.success) {
+            console.error('Error:', data.message);
+        }
+    })
+    .catch(error => console.error('Error:', error));
+}
+
+// Load user data and update inventory when the page loads
+window.onload = () => {
+    const profilePic = localStorage.getItem('profilePic');
+    const userName = localStorage.getItem('userName');
+    let coins = localStorage.getItem('coins') || 0; // Retrieve saved coins or set to 0 if not available
+
+    if (profilePic) {
+        document.querySelector("img[alt='User Avatar']").src = profilePic;
+    }
+
+    if (userName) {
+        document.getElementById('userName').textContent = userName;
+    }
+
+    document.getElementById('score').textContent = `$ ${Number(coins).toLocaleString()}`; // Display saved coins
+    updateInventory();
+};
+
+const body = document.body;
+const image = body.querySelector('#coin');
+const h1 = body.querySelector('h1');
+
+let total = localStorage.getItem('total');
+let power = localStorage.getItem('power');
+let count = localStorage.getItem('count');
+
+// Initialize stored values
+if (total == null) {
+    localStorage.setItem('total', '500');
+    body.querySelector('#total').textContent = '/500';
+} else {
+    body.querySelector('#total').textContent = `/${total}`;
+}
+
+if (power == null) {
+    localStorage.setItem('power', '500');
+    body.querySelector('#power').textContent = '500';
+} else {
+    body.querySelector('#power').textContent = power;
+}
+
+if (count == null) {
+    localStorage.setItem('count', '1');
+}
+
+// Click event for the coin image
+image.addEventListener('click', (e) => {
+    let x = e.offsetX;
+    let y = e.offsetY;
+
+    navigator.vibrate(5);
+
+    let coins = Number(localStorage.getItem('coins')) || 0;
+    power = localStorage.getItem('power');
+
+    if (Number(power) > 0) {
+        localStorage.setItem('coins', `${Number(coins) + 1}`);
+        h1.textContent = `${(Number(coins) + 1).toLocaleString()}`;
+
+        localStorage.setItem('power', `${Number(power) - 1}`);
+        body.querySelector('#power').textContent = `${Number(power) - 1}`;
+    }
+
+    // Animation for the coin image
+    if (x < 150 && y < 150) {
+        image.style.transform = 'translate(-0.25rem, -0.25rem) skewY(-10deg) skewX(5deg)';
+    } else if (x < 150 && y > 150) {
+        image.style.transform = 'translate(-0.25rem, 0.25rem) skewY(-10deg) skewX(5deg)';
+    } else if (x > 150 && y > 150) {
+        image.style.transform = 'translate(0.25rem, 0.25rem) skewY(10deg) skewX(-5deg)';
+    } else if (x > 150 && y < 150) {
+        image.style.transform = 'translate(0.25rem, -0.25rem) skewY(10deg) skewX(-5deg)';
+    }
+
+    setTimeout(() => {
+        image.style.transform = 'translate(0px, 0px)';
+    }, 100);
+
+    body.querySelector('.progress').style.width = `${(100 * power) / total}%`;
+});
+
+// Power regeneration
+setInterval(() => {
+    count = localStorage.getItem('count');
+    power = localStorage.getItem('power');
+
+    if (Number(total) > power) {
+        localStorage.setItem('power', `${Number(power) + Number(count)}`);
+        body.querySelector('#power').textContent = `${Number(power) + Number(count)}`;
+        body.querySelector('.progress').style.width = `${(100 * power) / total}%`;
+    }
+}, 1000);
+
+
+    // Rewarded interstitial
+        
+show_9148323().then(() => {
+    // You need to add your user reward function here, which will be executed after the user watches the ad.
+    // For more details, please refer to the detailed instructions.
+    alert('You have seen an ad!');
+})
+
+
+        <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Ensure ads are loaded after page is fully ready
+        if (typeof show_9148323 === "function") {
+            show_9148323().then(() => {
+                alert('You have seen an ad!');
+            }).catch(error => {
+                console.error("Ad failed to load:", error);
+            });
+        } else {
+            console.error("Ad script not loaded properly.");
+        }
+    });
+</script>
+
+        
+    </script>
+
+
+<script type="text/javascript">
+	atOptions = {
+		'key' : '6d649a251898811b18672f2b1e14b7dd',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/6d649a251898811b18672f2b1e14b7dd/invoke.js"></script>
+
+    
+</body>
+</html>
